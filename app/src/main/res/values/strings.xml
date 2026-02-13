@@ -1,0 +1,29 @@
+<resources>
+<string name="app_name">ConvoAI Admin</string>
+
+<string name="login_title">Admin Login</string>
+<string name="admin_email_hint">Admin Email</string>
+<string name="password_hint">Password</string>
+<string name="access_dashboard">Access Dashboard</string>
+<string name="login_icon_desc">Login Lock Icon</string>
+
+<string name="welcome_back">Welcome Back,</string>
+<string name="admin_control_title">Admin Control</string>
+<string name="desc_logout_icon">Logout Icon</string>
+
+<string name="label_total_users">Total Registered Users</string>
+<string name="loading_placeholder">Loading...</string>
+<string name="desc_analytics_bg_icon">Background Analytics Chart</string>
+
+<string name="section_quick_actions">Quick Actions</string>
+
+<string name="btn_manage_users">Manage Users</string>
+<string name="desc_users_icon">User List Icon</string>
+
+<string name="btn_coin_economy">Coin Economy</string>
+<string name="desc_economy_icon">Coin Stack Icon</string>
+
+<string name="title_maintenance">Maintenance Mode</string>
+<string name="desc_maintenance">Lock app access for everyone</string>
+<string name="desc_lock_icon">Security Lock Icon</string>
+</resources>
